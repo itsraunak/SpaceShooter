@@ -27,16 +27,23 @@
 ##
 
 # Power Up 
-## 1.Shield
+All the power up has some defined time and after that time interval powers again disappear
+except shield shield powerup will deactivate when enemy collide with the player.
+## 1. Shield
  If shield is active and Enemy shot or touch the player then shield will be off & there will not be any change in the life line.
 
 ![Screenshot-3](https://user-images.githubusercontent.com/58897751/183302783-ba4d2398-2dd8-4273-9f61-a13ba7cb46b5.gif)
 
-## 2.Triple Shot
+## 2. Triple Shot
 In triple shot powerup player will get a super power to shot triple missile at once.
 ![Screenshot-4](https://user-images.githubusercontent.com/58897751/183302890-937572c0-7267-4a76-aeb4-52813ca0fd91.gif)
 
-## 3.Speed
+## 3. Speed
 In speed Player got the 10x Speed for movement.
+![Screenshot-6](https://user-images.githubusercontent.com/58897751/183303383-524ba715-56a9-43c0-badf-901ee04188a9.gif)
+
+## You can download the Game From Link Below 
+First Extract the Zip using 7zip or any unzip tools and the run the application game will start
+Link - https://drive.google.com/file/d/1SlBuuVnRreh_LqAKJMUqOepIjxPMDjRH/view?usp=sharing
 
 
