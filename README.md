@@ -19,9 +19,23 @@
 
 ![Screenshot-2](https://user-images.githubusercontent.com/58897751/183302572-2027bc22-743a-4777-9e8b-c9172b8fdeba.gif)
 
-## Power Ups:
-- 1.Shield
-- if shield is active and enemy shot or touch the player then shield will be off, 
-- and there will not be any change in the life line.
+## Player Movement 
+- For player movement we need to press the W,S,A,D key.
+- there are some restriction in moving top and bottom for the player.
+![Screenshot-5](https://user-images.githubusercontent.com/58897751/183303059-a3488e70-6ae9-4614-a3dc-e6b3c5d17da9.gif)
+
+
+# Power Ups:
+## 1.Shield
+ If shield is active and Enemy shot or touch the player then shield will be off & there will not be any change in the life line.
 
 ![Screenshot-3](https://user-images.githubusercontent.com/58897751/183302783-ba4d2398-2dd8-4273-9f61-a13ba7cb46b5.gif)
+
+## 2.Triple Shot
+In triple shot powerup player will get a super power to shot triple missile at once.
+![Screenshot-4](https://user-images.githubusercontent.com/58897751/183302890-937572c0-7267-4a76-aeb4-52813ca0fd91.gif)
+
+## 3.Speed
+In speed Player got the 10x Speed for movement.
+
+
