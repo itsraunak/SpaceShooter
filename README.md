@@ -1,7 +1,7 @@
 # SpaceShooter
 ## Tools Used for the Game
-- 1.Unity
-- 2.Visual Studio
+ 1. Unity
+ 2. Visual Studio
 
 ## Enjoy the game with Benefit's of -
 
