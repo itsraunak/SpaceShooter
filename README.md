@@ -9,7 +9,7 @@
 - Attractive and addictive game SpaceShooter.
 - Play the game if you are out of life then restart.
 - There are Three lifelines.
-- Also there are some Super Powers, which make game more interesting
+- Also there are some Super Powers and music & which make game more addictive.
 
 
 ## First Shot
