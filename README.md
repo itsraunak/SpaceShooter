@@ -24,8 +24,9 @@
 - there are some restriction in moving top and bottom for the player.
 ![Screenshot-5](https://user-images.githubusercontent.com/58897751/183303059-a3488e70-6ae9-4614-a3dc-e6b3c5d17da9.gif)
 
+##
 
-# Power Ups:
+# Power Up 
 ## 1.Shield
  If shield is active and Enemy shot or touch the player then shield will be off & there will not be any change in the life line.
 
