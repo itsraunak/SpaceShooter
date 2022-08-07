@@ -43,7 +43,7 @@ In speed Player got the 10x Speed for movement.
 ![Screenshot-6](https://user-images.githubusercontent.com/58897751/183303383-524ba715-56a9-43c0-badf-901ee04188a9.gif)
 
 ## You can download the Game From Link Below 
-First Extract the Zip using 7zip or any unzip tools and the run the application game will start
-Link - https://drive.google.com/file/d/1SlBuuVnRreh_LqAKJMUqOepIjxPMDjRH/view?usp=sharing
+# First Extract the Zip using 7zip or any unzip tools and the run the application game will start
+# Link - https://drive.google.com/file/d/1SlBuuVnRreh_LqAKJMUqOepIjxPMDjRH/view?usp=sharing
 
 
